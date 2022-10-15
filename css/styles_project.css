@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #66bfbf;
+}
+
+.heading-1 {
+  display: flex;
+  justify-content: center;
+}
